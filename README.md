@@ -3,13 +3,13 @@ https://tryhackme.com/p/remin005
 
 ## 📊 My Progress
 
-- **Total Rooms Completed**: `65`
-- **Rank**: `166260(top 7%)` on TryHackMe
-- **Learning Paths**: `Cyber Security 101` 
+- **Total Rooms Completed**: `89`
+- **Rank**: `122857(top 6%)` on TryHackMe
+- **Learning Paths**: `Cyber Security 101 (Completed), SOC Level 1`
 
 > *I don't write full walkthroughs for rooms I've already completed, but I will be adding detailed writeups for all future rooms.* 
  
-> *Last Updated: May 29, 2026*
+> *Last Updated: June 8, 2026*
 ---
 
 ## 🗂️ Completed Rooms
@@ -63,6 +63,29 @@ https://tryhackme.com/p/remin005
 - Web Application Basics
 - SQL Fundamentals
 - Metasploit: Introduction
+- Metaspoit: Exploitation
+- Blue
+- John the Ripper: The Basics
+- Metasploit: Meterpeter
+- Security Principles
+- Burp Suite: The Basics
+- Incident Response Fundamentals
+- Digital Forensics Fundamentals
+- Gobuster: The Basics
+- SQLMap: The Basics
+- Shells Overview
+- OWASP TOP 10 2025: IAAA Failures
+- OWASP TOP 10 2025: Application Design Flaos
+- OWASP TOP 10 2025: Insecure Data Handlings
+- Introduction to SIEM
+- Logs Fundamentals
+- Firewall Fundamentals
+- IDS Fundamentals
+- Vulnerability Scanner Overview
+- Cyberchef: The Basics
+- CAPA: The Basics
+- FlareVM: Arsenal of Tools
+- REMnux: Getting Started
 
 ### Medium
 - Introduction to DevSocOps
