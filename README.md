@@ -3,9 +3,9 @@ https://tryhackme.com/p/remin005
 
 ## 📊 My Progress
 
-- **Total Rooms Completed**: `89`
-- **Rank**: `122857(top 6%)` on TryHackMe
-- **Learning Paths**: `Cyber Security 101 (Completed), SOC Level 1`
+- **Total Rooms Completed**: `90`
+- **Rank**: `120915(top 6%)` on TryHackMe
+- **Learning Paths**: `Cyber Security 101 (Completed), AI Fundamentals(WIP)`
 
 > *I don't write full walkthroughs for rooms I've already completed, but I will be adding detailed writeups for all future rooms.* 
  
