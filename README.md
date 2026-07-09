@@ -3,11 +3,11 @@ https://tryhackme.com/p/remin005
 
 ## 📊 My Progress
 
-- **Total Rooms Completed**: `90`
-- **Rank**: `120915(top 6%)` on TryHackMe
-- **Learning Paths**: `Cyber Security 101 (Completed), AI Fundamentals(WIP)`
+- **Total Rooms Completed**: `94`
+- **Rank**: `119110(top 5%)` on TryHackMe
+- **Learning Paths**: `Cyber Security 101 (Completed), SOC Level 1(In Progress)`
 
-> *I don't write full walkthroughs for rooms I've already completed, but I will be adding detailed writeups for all future rooms.* 
+> *I don't write full walkthroughs for all rooms I've completed, but I am writing them for new rooms that provide meaninful learning* 
  
 > *Last Updated: June 8, 2026*
 ---
@@ -86,6 +86,9 @@ https://tryhackme.com/p/remin005
 - CAPA: The Basics
 - FlareVM: Arsenal of Tools
 - REMnux: Getting Started
+- SOC Role in Blue Team
+- SOC L1 Alert Triage
+- Systems as Attack Vectors
 
 ### Medium
 - Introduction to DevSocOps
